@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Play
+comment0.text=\r\n\ This\ is\ the\ main\ class\ used\ to\ run\ the\ game\r\n\r\n\ @author\ Amanda\ Lu\r\n\ @version\ 2020.05.20\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Runs\ the\ game\r\n
+numComments=2

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ This\ class\ is\ the\ main\ class\ of\ the\ "Enchanted\ Forest"\ application.\ \r\n\ "Enchanted\ Forest"\ is\ a\ simple,\ text\ based\ adventure\ game.\r\n\ \ \r\n\ Each\ "Item"\ in\ this\ class\ represents\ something\ that\ can\ be\ picked\ up\ \r\n\ by\ the\ Player\ and\ can\ be\ used.\ They\ can\ be\ stored\ in\ a\ Room\ or\ held\ by\ \r\n\ the\ Player,\ and\ each\ item\ has\ a\ specific\ weight.\r\n\r\n\ @author\ Amanda\r\n\ @version\ 2021.05.12\r\n
+comment1.params=name\ num\ desc
+comment1.target=Item(java.lang.String,\ double,\ java.lang.String)
+comment1.text=\r\n\ Creates\ an\ Item\ with\ a\ description,\ and\ weight\r\n\ @param\ item\ The\ name\ of\ the\ item\r\n\ @param\ num\ The\ item's\ weight\r\n
+comment2.params=num
+comment2.target=Item(double)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ Returns\ the\ name\ of\ the\ item\r\n\ @return\ The\ item's\ name\r\n
+comment4.params=
+comment4.target=double\ getWeight()
+comment4.text=\r\n\ Returns\ the\ weight\ of\ the\ item\r\n\ @return\ The\ item's\ weight\r\n
+comment5.params=
+comment5.target=java.lang.String\ getWeightString()
+comment5.text=\r\n\ Returns\ the\ weight\ of\ the\ item\ in\ a\ string\r\n\ @return\ The\ item's\ weight\ as\ a\ string\r\n
+comment6.params=
+comment6.target=void\ printInfo()
+comment6.text=\r\n\ Returns\ information\ about\ the\ item\ in\ this\ format\:\r\n\ \ \ \ A\ rusty\ old\ shovel.\r\n\ \ \ \ Weight\:\ 5.0\ pounds\r\n\ @return\ description\ of\ the\ item\r\n
+numComments=7
